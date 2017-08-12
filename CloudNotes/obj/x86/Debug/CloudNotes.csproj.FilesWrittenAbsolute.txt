@@ -1,0 +1,5 @@
+/Users/wrf_mac/Desktop/C#课程精讲/Code/CloudNotes/CloudNotes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/wrf_mac/Desktop/C#课程精讲/Code/CloudNotes/CloudNotes/bin/Debug/CloudNotes.pdb
+/Users/wrf_mac/Desktop/C#课程精讲/Code/CloudNotes/CloudNotes/bin/Debug/CloudNotes.exe
+/Users/wrf_mac/Desktop/C#课程精讲/Code/CloudNotes/CloudNotes/obj/x86/Debug/CloudNotes.exe
+/Users/wrf_mac/Desktop/C#课程精讲/Code/CloudNotes/CloudNotes/obj/x86/Debug/CloudNotes.pdb

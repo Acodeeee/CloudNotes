@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <UserInfo>
+    <UserName>admin</UserName>
+    <Password>123456</Password>
+  </UserInfo>
+  <UserInfo>
+    <UserName>abc</UserName>
+    <Password>123</Password>
+  </UserInfo>
+  <UserInfo>
+    <UserName>汪瑞峰</UserName>
+    <Password>123</Password>
+  </UserInfo>
+</Root>

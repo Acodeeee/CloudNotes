@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{2149EF41-707C-47B3-B825-DE57DC4030FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CloudNotes/ToDo.cs">
+    <Files>
+      <File FileName="CloudNotes/Program.cs" Line="13" Column="34" />
+      <File FileName="CloudNotes/ToDo.cs" Line="93" Column="1" />
+      <File FileName="CloudNotes/ToDoList.cs" Line="20" Column="28" />
+      <File FileName="CloudNotes/UserInfo.cs" Line="9" Column="24" />
+      <File FileName="CloudNotes/UserInfoController.cs" Line="52" Column="15" />
+      <File FileName="CloudNotes/AnalysisXml.cs" Line="7" Column="21" />
+      <File FileName="CloudNotes/LogOrRegistLogic.cs" Line="116" Column="43" />
+      <File FileName="CloudNotes/ToDoListLogic.cs" Line="24" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CloudNotes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
